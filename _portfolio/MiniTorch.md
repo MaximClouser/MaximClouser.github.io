@@ -12,4 +12,4 @@ their operations (map, zip, reduce) while handling broadcasting, forward and bac
 optimizing performance on CPU and GPU using Numba and CUDA, implementing auto-differentiation by sorting the computation graph topologically and backpropagating with the chain rule, and much more.
 
 ### Code 
-[View the full project code on GitHub](https://github.com/MaximClouser/MiniTorch). 
+[View the full project code on GitHub.](https://github.com/MaximClouser/MiniTorch)

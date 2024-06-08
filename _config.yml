@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Maxim Clouser"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Maxim Clouser"
 description              : &description "personal description"
 url                      : https://MaximClouser.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,7 +21,7 @@ repository               : "MaximClouser/MaximClouser.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile-pic.jpg"
   name             : "Maxim Clouser"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"

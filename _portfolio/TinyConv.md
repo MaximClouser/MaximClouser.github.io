@@ -14,7 +14,7 @@ The TinyConv model was optimized for microcontroller use and underwent quantizat
 In practical tests, the model demonstrated high accuracy in recognizing specific audio commands ("yes" and "no"), though it struggled with similar sounding words. Structured pruning allowed for considerable reduction in computational demands with a manageable decrease in accuracy, showing potential for deployment in scenarios requiring rapid response and minimal resource use. This project illustrates the balance between performance, efficiency, and accuracy, highlighting the potential of neural networks in embedded systems.
 
 ### Report and Code 
-[View the full project code on GitHub](https://github.com/MaximClouser/ML-Hardware-and-Systems/tree/main/A2). 
+[View the full project code on GitHub.](https://github.com/MaximClouser/ML-Hardware-and-Systems/tree/main/A2) 
 <iframe src="/files/TinyConv.pdf" width="100%" height="500px">
     Sorry, your browser does not support PDFs. <a href="/files/TinyConv.pdf">Download PDF</a>
 </iframe>

@@ -15,5 +15,5 @@ a given repo and utilizes Retrieval-Augmented Generation (RAG) and LLMs to provi
 The RepoRover uses the GPT-3.5 Turbo model from OpenAI and implements RAG with the help of the LangChain framework and FAISS vector store, allowing the Rover to explore massive repositories while remaining within the context window and providing relevant information to users. This is acheived via a similarity search on a vector store of the repo contents against the user query, followed by a second LLM which can request code from specific files and provide short summaries. Finally, all of this information is passed to the Rover LLM which now has the most relevant information of the entire Repo and the user query.
 
 ### Live App and Code 
-[Try the RepoRover](https://reporover.streamlit.app/).  
-[View the full project code on GitHub](https://github.com/DevTechCollective/RepoRover). 
+[Try the RepoRover.](https://reporover.streamlit.app/)  
+[View the full project code on GitHub.](https://github.com/DevTechCollective/RepoRover)

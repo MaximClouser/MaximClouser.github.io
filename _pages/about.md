@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello MAX!
-I am Maxim, a ...
+Hello, I am Max!
 
 
