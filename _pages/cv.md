@@ -44,4 +44,4 @@ redirect_from:
 - **Frameworks and Tools**: Spring, Angular, Git, Docker, Maven, PyTorch, NumPy, Pandas, PostgreSQL
 - **Development Practices**: Agile and Scrum methodologies
 - **System Design**: Proficient in designing scalable software solutions
-- **Data Handling**: Experienced in using SQL and NoSQL databases for complex data management tasks
+- **Data Handling**: Experienced in using SQL and NoSQL databases for data management tasks
